@@ -250,6 +250,13 @@ a:focus {
     background-size: cover;
     -o-background-size: cover;
 }
+#Downhill {
+    background: url(../img/downhill.jpg) no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
 
 @media(min-width:767px) {
     .content-section {
